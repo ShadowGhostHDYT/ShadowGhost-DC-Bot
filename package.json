@@ -1,0 +1,22 @@
+{
+  "name": "dcbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.29.0",
+    "readable-stream": "^3.3.0",
+    "discord": "^0.8.2",
+    "minecraft-pinger": "^1.0.3",
+    "minecraft-protocol": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
